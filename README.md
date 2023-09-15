@@ -61,7 +61,9 @@
 
    https://github.com/anikethmehta/LAB3/blob/main/part2%20code%20main.png
 
-   Output:
+   Output: 
+
+   https://github.com/anikethmehta/LAB3/blob/main/part2%20by%20ref%20output.png
 
     
     
