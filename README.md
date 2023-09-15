@@ -49,8 +49,8 @@
 
 ### ***Output Screenshot*** :
 
-(1) Code : 
-
+(1) Code : https://github.com/anikethmehta/LAB3/blob/main/part1%20code.png
+    
    Output :
 
 (2) Code :
