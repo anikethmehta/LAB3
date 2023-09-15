@@ -51,7 +51,7 @@
 
 (1) Code : https://github.com/anikethmehta/LAB3/blob/main/part1%20code.png
     
-   Output :
+   Output : https://github.com/anikethmehta/LAB3/blob/main/part1%20output.png
 
 (2) Code :
 
