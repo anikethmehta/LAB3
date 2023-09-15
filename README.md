@@ -59,6 +59,8 @@
 
    https://github.com/anikethmehta/LAB3/blob/main/part2%20code%20def.png
 
+   https://github.com/anikethmehta/LAB3/blob/main/part2%20code%20main.png
+
    Output:
 
     
