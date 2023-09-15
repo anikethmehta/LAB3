@@ -53,7 +53,11 @@
     
    Output : https://github.com/anikethmehta/LAB3/blob/main/part1%20output.png
 
-(2) Code : https://github.com/anikethmehta/LAB3/blob/main/part2%20code%20dec.png
+(2) Code : 
+   
+   https://github.com/anikethmehta/LAB3/blob/main/part2%20code%20dec.png
+
+   https://github.com/anikethmehta/LAB3/blob/main/part2%20code%20def.png
 
    Output:
 
